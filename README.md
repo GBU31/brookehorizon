@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brookehorizon&label=Profile%20views&color=129e00&style=plastic" alt="brookehorizon" /> </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/brookehorizon/brookehorizon/blob/main/Images/Working.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966">
 
 
 [![brookehorizon Private Repo Counts](https://img.shields.io/badge/Private%20Repositories-7-blueviolet)](https://github.com/brookehorizon/private-repo4) <!--https://github.com/brookehorizon/Contributing-to-open-source/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22-->[![Forked Repo](https://img.shields.io/badge/Forked%20Repositories-25-red)](https://github.com/brookehorizon?tab=repositories&q=&type=fork&language=&sort=)
