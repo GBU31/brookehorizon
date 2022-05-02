@@ -54,9 +54,8 @@ products that would make an immediate impact.</br>
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>-->
-   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>-->
-  <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>-->
+   
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" width="40" height="40"/> </a>
  <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>-->
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -67,9 +66,6 @@ products that would make an immediate impact.</br>
 - 📫 How to reach me **danieltashman17@gmail.com**
 
 
-- 💬 Ask me about **anything you want related to _Front End Web Development,Python,Open-Source._**
-
-
 
   ![brookehorizon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brookehorizon&theme=buefy&show_icons=true)
 <p>
@@ -77,13 +73,5 @@ products that would make an immediate impact.</br>
   <img width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brookehorizon&layout=compact&langs_count=8&theme=buefy" />
 </p>
 
-
-
-
-
-<!-- ### 📕 Blog Posts
-- [React-Redux : A basic intro for Back-end developers](https://tg.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
-- [Add a README for your profile : GitHub feature](https://tg.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
-<br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=brookehorizon.brookehorizon) -->
