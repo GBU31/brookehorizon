@@ -48,7 +48,7 @@ products that would make an immediate impact.</br>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank"> <img src="https://logowik.com/content/uploads/images/unity-new-20212110.jpg" width="40" height="40"/> </a>
+<a href="https://unity.com/" target="_blank"> <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" width="40" height="40"/> </a>
 
 - 👨‍💻 You can also check out my portfolio at [https://brookehorizon.github.io/](https://brookehorizon.github.io/)
 
