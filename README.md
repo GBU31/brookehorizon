@@ -51,6 +51,9 @@ products that would make an immediate impact.</br>
 
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
  <a target="_blank"> <img src="https://logowik.com/content/uploads/images/t_321_c.jpg" alt="cpp" width="40" height="40"/> </a>
+ 
+ <a href="https://www.electronjs.org/" target="_blank"> <img src="https://ih1.redbubble.net/image.738593393.9833/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="react" width="40" height="40"/> </a> 
+ <a target="_blank"> <img src="https://logowik.com/content/uploads/images/t_321_c.jpg" alt="cpp" width="40" height="40"/> </a>
   <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="cs" width="40" height="40"/> </a>
 
 
