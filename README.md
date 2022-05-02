@@ -34,9 +34,6 @@ products that would make an immediate impact.</br>
 <br>
 
 
-<h3 align="center">Familiar with</h3>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" width="40" height="40"/> </a>
