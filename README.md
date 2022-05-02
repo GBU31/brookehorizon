@@ -49,7 +49,7 @@ products that would make an immediate impact.</br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://www.electronjs.org/" target="_blank"> <img src="hhttps://logodix.com/logo/1844790.png" alt="electron" width="40" height="40"/> </a> 
+ <a href="https://www.electronjs.org/" target="_blank"> <img src="https://logodix.com/logo/1844790.png" alt="electron" width="40" height="40"/> </a> 
  <a target="_blank"> <img src="https://blogs.embarcadero.com/wp-content/uploads/2021/04/cpp_logo-8583292.png" alt="cpp" width="40" height="40"/> </a>
   <a target="_blank"> <img src="https://i.pinimg.com/originals/e8/46/0f/e8460f0d8b9df01e9460bfd1ade0e8c8.png" alt="cs" width="40" height="40"/> </a>
   
