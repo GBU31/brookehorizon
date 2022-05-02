@@ -12,23 +12,15 @@
 
 
 
-<a href="https://in.linkedin.com/in/tarun-gaur-0164571bb">
+<a href="https://www.linkedin.com/in/dani-t-919747227/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="brookehorizon" height="30" width="40" />
 </a>
 
-<a href="https://twitter.com/TarunGa32392635">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="brookehorizon" height="30" width="40" />
-</a>
-
-<a href="mailto:mailtome456gaurtarun@gmail.com">
+<a href="mailto:mailtomedanieltashman17@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="brookehorizon" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/gaurtarun98">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="brookehorizon" height="30" width="40" />
-</a>
-
-<a href="https://medium.com/@gaurtarun77">
+<a href="https://medium.com/@brookehorizon">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="brookehorizon" height="30" width="40" />
 </a>
 
@@ -53,12 +45,10 @@ products that would make an immediate impact.</br>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>-->
-   
- <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>-->
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" width="40" height="40"/> </a>
+<a href="https://unity.com/" target="_blank"> <img src="https://logowik.com/content/uploads/images/unity-new-20212110.jpg" width="40" height="40"/> </a>
 
 - 👨‍💻 You can also check out my portfolio at [https://brookehorizon.github.io/](https://brookehorizon.github.io/)
 
