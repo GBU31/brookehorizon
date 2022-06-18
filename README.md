@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://brookehorizon.github.io)-->
 
-## Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [daniel tashman!](https://www.linkedin.com/in/dani-t-919747227/) 
+## Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Daniel Tashman!](https://www.linkedin.com/in/dani-t-919747227/) 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brookehorizon&label=Profile%20views&color=129e00&style=plastic" alt="brookehorizon" /> </p>
