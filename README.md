@@ -12,7 +12,7 @@
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="brookehorizon" height="30" width="40" />
 </a>
 
-<a href="mailto:mailtomedanieltashman17@gmail.com">
+<a href="mailto:mailtomedanieltashman1@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="brookehorizon" height="30" width="40" />
 </a>
 
