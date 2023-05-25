@@ -44,10 +44,6 @@ products that would make an immediate impact.</br>
  <a href="https://www.electronjs.org/" target="_blank"> <img src="https://logodix.com/logo/1844790.png" alt="electron" width="40" height="40"/> </a> 
  <a target="_blank"> <img src="https://blogs.embarcadero.com/wp-content/uploads/2021/04/cpp_logo-8583292.png" alt="cpp" width="40" height="40"/> </a>
   <a target="_blank"> <img src="https://i.pinimg.com/originals/e8/46/0f/e8460f0d8b9df01e9460bfd1ade0e8c8.png" alt="cs" width="40" height="40"/> </a>
-  
-
-- 📫 How to reach me **danieltashman1@gmail.com**
-
 
 
   ![brookehorizon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brookehorizon&theme=buefy&show_icons=true)
