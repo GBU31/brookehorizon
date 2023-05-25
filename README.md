@@ -1,7 +1,6 @@
 <!--[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://brookehorizon.github.io)-->
 
-## Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Daniel Tashman!](https://www.linkedin.com/in/dani-t-919747227/) 
-
+## Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brookehorizon&label=Profile%20views&color=129e00&style=plastic" alt="brookehorizon" /> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966">
@@ -47,7 +46,7 @@ products that would make an immediate impact.</br>
   <a target="_blank"> <img src="https://i.pinimg.com/originals/e8/46/0f/e8460f0d8b9df01e9460bfd1ade0e8c8.png" alt="cs" width="40" height="40"/> </a>
   
 
-- 📫 How to reach me **danieltashman17@gmail.com**
+- 📫 How to reach me **danieltashman1@gmail.com**
 
 
 
