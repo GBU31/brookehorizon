@@ -2,8 +2,6 @@
 
 ## Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brookehorizon&label=Profile%20views&color=129e00&style=plastic" alt="brookehorizon" /> </p>
-
 
 <a href="https://www.linkedin.com/in/dani-t-919747227/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="brookehorizon" height="30" width="40" />
@@ -49,6 +47,3 @@ products that would make an immediate impact.</br>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=brookehorizon&theme=buefy&hide_border=false&fire=DD2727" alt="brookehorizon" />
   <img width="42%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brookehorizon&layout=compact&langs_count=8&theme=buefy" />
 </p>
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=brookehorizon.brookehorizon) -->
