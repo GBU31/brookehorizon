@@ -11,8 +11,8 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="brookehorizon" height="30" width="40" />
 </a>
 
-<a href="https://medium.com/@brookehorizon">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="brookehorizon" height="30" width="40" />
+<a href="https://substack.com/profile/110827718-janus">
+  <img align="left" width="26px" src="https://cdn.icon-icons.com/icons2/3915/PNG/512/substack_logo_icon_249485.png" height="30" width="40" />
 </a>
 
 <br />
